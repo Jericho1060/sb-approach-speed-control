@@ -39,7 +39,7 @@ a=15 b=150 c=1 if:rD>=:rLength thengoto1end goto:Approach+1
 ```
 
 - `a` is the distance you want to stop from the target in meters
-- `b` is the max speed your ship is capable. more this value is accurate, more the precision of the script will be good
+- `b` is the max speed your ship is capable. more this value is accurate, more the precision of the script will be good in meters/second
 - `c` is a brake factor. If you ship is missing a bit of braking power, you can increase that value, it will multiply the thrust send to your brake.
 
 ## Usage
