@@ -1,6 +1,6 @@
 # Approcah Script with speed control
 
-A script to secure your approach from a target and avoir collision.
+A script to secure your approach from a target and avoid collision.
 
 Showcase Video available here : [https://youtu.be/GqaKc3-UVYU](https://youtu.be/GqaKc3-UVYU)
 
