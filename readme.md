@@ -1,4 +1,4 @@
-# Approcah Script with speed control
+# Approach Script with speed control
 
 A script to secure your approach from a target and avoid collision.
 
