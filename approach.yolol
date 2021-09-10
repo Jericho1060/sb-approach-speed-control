@@ -1,0 +1,20 @@
+a=15 b=150 c=1 if:rD>=:rLength thengoto1end goto:Approach+1
+if:rD<=a or :Approach<=0 or :rD>=:rLength thengoto5end d=:rD
+e=(d-:rD)*5 f=(:rD-a)/5 g=f-e h=(f*(g>0)+e*(g<0))*100/b*(:rD<:rLength)
+:FcuForward=h*(e<f) :FcuBackward=c*h*(e>=f) goto2
+ife<=0 or :rD>a thengoto7end d=:rD
+e=(d-:rD)*5 :FcuForward=0 :FcuBackward=c*e*100/b goto5
+:FcuForward=0 :FcuBackward=0 goto1
+
+
+
+
+
+
+
+
+
+
+
+
+//Approach with speed control by jericho (Discord: jericho#1060)
